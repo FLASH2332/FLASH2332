@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FLASH2332
+- 👋 Hi, I’m JAYADEV
 - 👀 I’m interested in doing programming
 - 🌱 I’m currently learning Computer science as major
 - 💞️ I’m looking to collaborate on small projects
