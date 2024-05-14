@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Computer science as major
 - 💞️ I’m looking to collaborate on small projects
 - 📫 How to reach me send me an invitation
-- ✌️Feel fre to check my repositories
+- ✌️Feel free to check my repositories
 
 <!---
 FLASH2332/FLASH2332 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
