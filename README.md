@@ -3,19 +3,20 @@
 
 - 🌱 I’m currently learning **Python libraries for Artificial Neural Networks (ANN) and Deep Learning**
 
-- 🤝 I’m seeking small projects to enhance my skills further.
+- 🤝 I’m eager to collaborate on projects that challenge my skills and help me grow.
 
 - 🌟 I’m part of my university’s Competitive Programming club, actively organizing events and participating in contests.
 
 - 👨‍💻 All of my projects are available at [https://github.com/FLASH2332?tab=repositories](https://github.com/FLASH2332?tab=repositories)
-
-- 📫 You can reach me by **jayaveeran2005@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jayadev-d-4127392a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayadev-d" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/jayaveeran2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="jayaveeran2005" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/Jai_Dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="u/Jai_Dev" height="30" width="40" /></a>
+<a href="mailto:jayaveeran2005@gmail.com" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
