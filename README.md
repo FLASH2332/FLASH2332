@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jayadev D</h1>
-<h3 align="center">I am a 2nd-year CSE undergrad exploring various areas in technology and currently delving into artificial intelligence. I enjoy applying my skills to solve practical problems.</h3>
+<h3 align="center">I am a 3rd-year CSE undergrad exploring various areas in technology and currently delving into artificial intelligence. I enjoy applying my skills to solve practical problems.</h3>
 
 - 🌱 I’m currently learning **Python libraries for Artificial Neural Networks (ANN) and Deep Learning**
 
