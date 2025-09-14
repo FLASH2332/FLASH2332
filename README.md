@@ -1,13 +1,44 @@
-<h1 align="center">Hi 👋, I'm Jayadev D</h1>
-<h3 align="center">I am a 3rd-year CSE undergrad exploring various areas in technology and currently delving into artificial intelligence. I enjoy applying my skills to solve practical problems.</h3>
+<h1 align="left">Hey 👋 What's up?</h1>
 
-- 🌱 I’m currently learning **Python libraries for Artificial Neural Networks (ANN) and Deep Learning**
+###
 
-- 🤝 I’m eager to collaborate on projects that challenge my skills and help me grow.
+<h3 align="center">Hi I am Jayadev D (FLASH2332)</h3>
 
-- 🌟 I’m part of my university’s Competitive Programming club, actively organizing events and participating in contests.
+###
 
-- 👨‍💻 All of my projects are available at [https://github.com/FLASH2332?tab=repositories](https://github.com/FLASH2332?tab=repositories)
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">🏫 Currently in my third year at Amrita Vishwa Vidyapeetham, pursuing Computer Science and Engineering.<br>✨ Piecing together code, algorithms, and curiosity since 2023<br>📚 I'm currently diving deeper into Backend Development (Golang) and Machine Learning  <br>🎯 Goals: Build systems where backends meet intelligence — from scalable APIs to adaptive AI agents<br>📈 Competitive Programmer, Always Learning</p>
+
+###
+
+<h2 align="left">Programming Languages & Frameworks</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+</div>
+
+###
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
